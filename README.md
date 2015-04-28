@@ -1,6 +1,6 @@
 # Network Based Text-Editor
 
-An academic project which was done in 2012 when as an academic project in my 2nd year. I ([Hasib Billah](https://github.com/halfo/)) and one of my classmates ([Sadman Ilham](https://github.com/Sadman-Ilham/)) collaborated our idea to make this happen.
+An academic project which was done in 2012. I ([Hasib Billah](https://github.com/halfo/)) and one of my classmates ([Sadman Ilham](https://github.com/Sadman-Ilham/)) collaborated our ideas to make this happen.
 
 
 **Features**
@@ -8,7 +8,11 @@ An academic project which was done in 2012 when as an academic project in my 2nd
 - Code Completion
 - Code Folding
 - Bracket Matching
+- Split View
 - Build & Run option (for *C++* and *Java*)
+- *Runtime **code sharing***
+- *Chat with other users*
+
 
 *Dependency: [RSyntaxTextArea](http://fifesoft.com/rsyntaxtextarea/)*
 
