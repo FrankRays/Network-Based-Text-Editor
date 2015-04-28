@@ -10,7 +10,7 @@ An academic project which was done in 2012. I ([Hasib Billah](https://github.com
 - Bracket Matching
 - Split View
 - Build & Run option (for *C++* and *Java*)
-- *Runtime **code sharing** *
+- Runtime **code sharing**
 - *Chat with other users*
 
 
