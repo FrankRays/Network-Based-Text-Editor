@@ -1,6 +1,6 @@
 # Network Based Text-Editor
 
-An academic project which was done in 2012. I ([Hasib Billah](https://github.com/halfo/)) and one of my classmates ([Sadman Ilham](https://github.com/Sadman-Ilham/)) collaborated our ideas to make this happen.
+An academic project which was done in 2012. I ([Sadman Ilham](https://github.com/Sadman-Ilham/)) and one of my classmates ([Hasib Billah](https://github.com/halfo/)) collaborated our ideas to make this happen.
 
 
 **Features**
